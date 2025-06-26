@@ -50,6 +50,7 @@ Una aplicación web que consume la [PokéAPI](https://pokeapi.co/) para mostrar 
 - Manipular el DOM pára actualizar la interfaz.
 - Crear una estructura modular en JS puro.
 - Mejorar la práctica en Git y GitHub.
+- Estructurar mejor un README y su contenido.
 
 ## 👨 Autor:
 - Nombre: Fernando Octavio Arroyo Velasco.
