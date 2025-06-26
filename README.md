@@ -39,17 +39,17 @@ Una aplicación web que consume la [PokéAPI](https://pokeapi.co/) para mostrar 
 3. ¡Listo! Ya puedes ver tu pokemon favorito.
 
 ## 🤖 Tecnologias utilizadas
- HTML
- CSS
- JavaScript
- PokeAPI(https://pokeapi.co/)
+- HTML
+- CSS
+- JavaScript
+- PokeAPI(https://pokeapi.co/)
 
 ## 🧠 Aprendizajes
  Durante el desarrollo de esta Pokédex aprendí a:
- Trabajar con fech para consumir la APIs REST.
- Manipular el DOM pára actualizar la interfaz.
- Crear una estructura modular en JS puro.
- Mejorar la práctica en Git y GitHub.
+- Trabajar con fech para consumir la APIs REST.
+- Manipular el DOM pára actualizar la interfaz.
+- Crear una estructura modular en JS puro.
+- Mejorar la práctica en Git y GitHub.
 
 ## 👨 Autor:
 - Nombre: Fernando Octavio Arroyo Velasco.
