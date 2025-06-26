@@ -22,9 +22,9 @@ Una aplicación web que consume la [PokéAPI](https://pokeapi.co/) para mostrar 
 
 ## 📸 Captura de pantalla
 
-![Vista principal de la Pokédex](IMAGENES-DEMO/main.png)
+![Vista principal de la Pokédex](IMAGES-DEMO/main.png)
 
-![Seccion de la categoria de peleadores](IMAGENES/peleador.png)
+![Seccion de la categoria de peleadores](IMAGES-DEMO/peleador.png)
 
 
 ---
