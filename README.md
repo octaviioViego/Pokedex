@@ -22,11 +22,9 @@ Una aplicación web que consume la [PokéAPI](https://pokeapi.co/) para mostrar 
 
 ## 📸 Captura de pantalla
 
-Descomenta esto cuando tengas una imagen disponible en la carpeta ./screenshots
+![Vista principal de la Pokédex](IMAGENES-DEMO/main.png)
 
-![Vista principal de la Pokédex](./IMAGENES-DEMO/main.png)
-
-![Seccion de la categoria de peleadores](./IMAGENES/peleador.png)
+![Seccion de la categoria de peleadores](IMAGENES/peleador.png)
 
 
 ---
@@ -35,7 +33,7 @@ Descomenta esto cuando tengas una imagen disponible en la carpeta ./screenshots
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/octaviioViego/pokedex.git
+   git clone https://github.com/octaviioViego/Pokedex.git
 
 2. Abre la carpeta HTML y abre el archivo index.html en tu navegador.
 3. ¡Listo! Ya puedes ver tu pokemon favorito.
