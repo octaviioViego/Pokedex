@@ -52,9 +52,9 @@ Una aplicación web que consume la [PokéAPI](https://pokeapi.co/) para mostrar 
  Mejorar la práctica en Git y GitHub.
 
 ## 👨 Autor:
- Nombre: Fernando Octavio Arroyo Velasco.
- Acerca de: Alumno de la institucion universitaria UACM.
- Carrera: Ing de software.
+- Nombre: Fernando Octavio Arroyo Velasco.
+- Acerca de: Alumno de la institucion universitaria UACM.
+- Carrera: Ing de software.
 
 ## ⚖️  Licencia 
  Este proyecto está licenciado bajo la licencia MIT. Puedes usuarlo, modificarlo y compartirlo libremente.
